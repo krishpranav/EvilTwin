@@ -165,7 +165,6 @@ server
 }
 
 case "$1" in --stop) stop ;; *)
-banner
 dependencies
 start
 
